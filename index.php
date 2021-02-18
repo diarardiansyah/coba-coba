@@ -6,6 +6,7 @@
 <body>
 
 	<h1>Data siswa sekolah dasar</h1>
+	<p>Menambahkan paragraf</p>
 
 </body>
 </html>
