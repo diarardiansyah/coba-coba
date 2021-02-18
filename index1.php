@@ -4,8 +4,8 @@
 	<title>Data guru</title>
 </head>
 <body>
-
-	<h1>Data guru</h1>
+	<h2>Data guru</h2>
 
 </body>
 </html>
+
